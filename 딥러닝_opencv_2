@@ -3,7 +3,14 @@
 
 ---
 
-<h1 id="q">Q</h1>
+<hr>
+<h2 id="layout-posttitle--오늘-공부-사이트-정리subtitle---javascript_etccategories-diarytags-diarycomments-true">layout: post<br>
+title:  “오늘 공부 사이트 정리”<br>
+subtitle:   “Javascript_ETC”<br>
+categories: diary<br>
+tags: diary<br>
+comments: true</h2>
+<h1 id="질문할-것들-01">질문할 것들 01</h1>
 <ol>
 <li>kernel init : 중간층 activation f // w init  ??</li>
 <li>CNN filter N ??</li>
